@@ -1,0 +1,38 @@
+
+What is HTTP?
+
+    HTTP is the protocol used to make requests and get responses from servers connected via the internet. 
+
+What is a URL?
+
+    "Uniform Resource Locators" mark the location of a website on the internet. It is an easy to read address that points to an IP address. 
+
+What is DNS?
+
+    Domain name servers are essentially a phone book that matches URLs with IP addresses
+
+What is a query string?
+
+    A Query String is a set of key and value pairs that can be added onto a URL to specify what should be served up on a page.
+    
+What are two HTTP verbs and how are they different?
+
+    GET allows you to request information from a server. POST allows you to send information to a server. 
+
+What is an HTTP request?
+
+    This is a message sent to a server following a specific protocol that illicits a response.
+    
+What is an HTTP response?
+
+    This is a message that also follows a specific protocol that is returned from a server after recieving an HTTP request
+    
+What is an HTTP header? Give a couple examples of request and response headers you have seen.
+
+    Headers add specifications to an HTTP Request. Some examples are Accept-Language and Authorization
+    
+What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+
+    The the url is used to map a request through a series of Routers and DNS to the target server. Based on the specifics of that request the target server sends content (or an error) back to the client that made the request. 
+
+
